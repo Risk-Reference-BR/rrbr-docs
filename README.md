@@ -4,9 +4,15 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
+## Vision
+
+O RRBR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no RRBR e deixe os agentes atualizarem e crescerem organicamente.
+
+Contribuições abertas a humanos e agentes AI. Sem pretensão comercial. Idealizado por **Ricardo Pfeuti**.
+
 ## Overview
 
-Central documentation for the Risk Reference BR project — architecture decisions, regulatory mappings, product catalog, and API references.
+Central documentation for the Risk Reference BR project.
 
 ## Structure
 
