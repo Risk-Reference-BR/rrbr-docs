@@ -1,6 +1,6 @@
-# RRBR — Catálogo de Produtos Financeiros Brasileiros
+﻿# Risk Reference BR — Catálogo de Produtos Financeiros Brasileiros
 
-Este catálogo documenta todos os produtos financeiros do mercado brasileiro que o RRBR tem como objetivo catalogar, implementar e validar. Cada produto possui documentação própria com definição, convenções de mercado, modelo de pricing, métricas de risco e referências normativas.
+Este catálogo documenta todos os produtos financeiros do mercado brasileiro que o Risk Reference BR tem como objetivo catalogar, implementar e validar. Cada produto possui documentação própria com definição, convenções de mercado, modelo de pricing, métricas de risco e referências normativas.
 
 ## Status de Implementação
 

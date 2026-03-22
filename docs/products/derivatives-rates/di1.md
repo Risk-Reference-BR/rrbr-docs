@@ -1,4 +1,4 @@
-# Futuro DI (DI1) — Contrato Futuro de Taxa Média de Depósitos Interfinanceiros de Um Dia
+﻿# Futuro DI (DI1) — Contrato Futuro de Taxa Média de Depósitos Interfinanceiros de Um Dia
 
 ## Definição
 
@@ -59,7 +59,7 @@ Esse ajuste diário gera um **convexity adjustment** que diferencia o pricing do
 | **Comprado** em DI1 | Taxa vai cair | Taxas caem, PU sobe |
 | **Vendido** em DI1 | Taxa vai subir | Taxas sobem, PU cai |
 
-**Atenção:** a linguagem de mercado é às vezes invertida — "comprado em DI" pode significar comprado em taxa (vendido em PU). O RRBR adota a convenção B3: **posição comprada = comprada em PU = apostando em queda de taxa**.
+**Atenção:** a linguagem de mercado é às vezes invertida — "comprado em DI" pode significar comprado em taxa (vendido em PU). O Risk Reference BR adota a convenção B3: **posição comprada = comprada em PU = apostando em queda de taxa**.
 
 ## Curva de Juros a Partir do DI1
 

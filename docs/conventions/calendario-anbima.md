@@ -1,4 +1,4 @@
-# Calendário ANBIMA — Feriados do Mercado Financeiro Brasileiro
+﻿# Calendário ANBIMA — Feriados do Mercado Financeiro Brasileiro
 
 ## Definição
 
@@ -57,4 +57,4 @@ Na prática, ANBIMA, B3 e BACEN têm calendários quase idênticos — as difere
 
 ## Publicação Anual
 
-O calendário é publicado pela ANBIMA antes do início de cada ano. O RRBR deve manter o calendário atualizado para todos os anos relevantes (histórico + projeção futura).
+O calendário é publicado pela ANBIMA antes do início de cada ano. O Risk Reference BR deve manter o calendário atualizado para todos os anos relevantes (histórico + projeção futura).
